@@ -57,16 +57,6 @@ https://colab.research.google.com/drive/1a7yaJf9LVKAYwLjh7JlfPld6w8jjyjGP?usp=sh
 - NumPy
 - Plotly
 - Google Colab
-
----
-
-## 📈 Use Cases
-- Financial risk analysis
-- Market crash research
-- Academic projects
-- Early warning system exploration
-- Quantitative finance learning
-
 ---
 
 ## 📌 Disclaimer
@@ -76,3 +66,4 @@ This project is intended for **educational and research purposes only** and shou
 
 ## 👤 Author
 **Manisha Bharti**
+
