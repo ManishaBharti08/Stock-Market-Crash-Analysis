@@ -49,6 +49,8 @@ Due to **GitHub and some local editors not fully supporting interactive Plotly o
 **Click here to view and run the full notebook:**
 https://colab.research.google.com/drive/1a7yaJf9LVKAYwLjh7JlfPld6w8jjyjGP?usp=sharing
 
+**Click here to view and run the live stock analysis notebook:**
+https://drive.google.com/file/d/1N_IgS9NVfxu03oGRzBaEWp9utcLlGt9k/view?usp=sharing
 ---
 
 ## 🛠️ Tools & Libraries Used
@@ -59,6 +61,12 @@ https://colab.research.google.com/drive/1a7yaJf9LVKAYwLjh7JlfPld6w8jjyjGP?usp=sh
 - Google Colab
 ---
 
+## How to perform live analysis
+- Set the yahoo finance ticker value (stock code) in cell 16
+- Set the Window size in cell 19
+- Set the Rolling mean return and Rolling Volatility threshold in cell 19
+- Restart and Run all session
+  
 ## 📌 Disclaimer
 This project is intended for **educational and research purposes only** and should **not be considered financial advice**.
 
@@ -66,4 +74,5 @@ This project is intended for **educational and research purposes only** and shou
 
 ## 👤 Author
 **Manisha Bharti**
+
 
